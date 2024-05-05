@@ -2,12 +2,7 @@
   "name": "fabs",
   "version": "1.0.0",
   "main": "index.js",
-  "packageManager": "npm",
-  "workspaces": [
-    "services/igaming/apps/expo/*",
-    "services/igaming/apps/next/*",
-    "services/igaming/packages/*"
-  ],
+  "workspaces": [],
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^7.8.0",
     "@typescript-eslint/parser": "^7.8.0",
